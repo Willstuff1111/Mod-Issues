@@ -1,7 +1,7 @@
 # Willstuff's Mods - Issues
 This is where you can report issues and/or request features for my mods.\
 [FAQ](#faq)\
-[Mod List](current-mod-list)
+[Mod List](#current-mod-list)
 ## FAQ
 ### Will you downgrade your mods?
 Probably not. Most mods are at 1.20+, but I highly doubt they'll go below that.
