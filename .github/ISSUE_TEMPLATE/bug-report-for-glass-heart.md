@@ -11,9 +11,10 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **Versions**
-e.g. Fabric, Minecraft and the Mod itself
+e.g. Type of Mod Software, Mod Software version, Minecraft and the Mod itself
 FORGE VERSION IS DEPRECATED AND ANY ISSUES WITH IT WILL BE MARKED INVALID
-Fabric: ?
+Software: Neoforge
+Version: ?
 Minecraft: 1.??.?
 Glass Heart: ?
 
