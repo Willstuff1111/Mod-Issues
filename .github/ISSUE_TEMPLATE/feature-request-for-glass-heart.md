@@ -9,6 +9,6 @@ assignees: ''
 
 **Request**
 
-- [ ] I am sure this isn't a duplicate or something that breaks rules listed below
+- [x] I am sure this isn't a duplicate or something that breaks rules listed below
 **I'm probably working on version updates so try not to request updates**
 **DON'T SAY PORT TO FORGE SOFTWARE OR IT WILL BE MARKED INVALID!**
